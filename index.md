@@ -10,7 +10,3 @@
 
 
 
-| Código                                   | Resultado                               |
-|------------------------------------------|-----------------------------------------|
-| Soy la primera celda de la tabla!        | Y yo la segunda                         |
-| Hola hola hola                           | Pues eso, que podemos poner más         |
