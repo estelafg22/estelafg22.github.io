@@ -1,8 +1,8 @@
-#MI PÁGINA MARKDOWN
-*[Visita Google](https://www.google.com)  
+# MI PÁGINA MARKDOWN  
+* [Visita Google](https://www.google.com)  
 
 
-* [Visita mi página web](index.html)  
+* [Visita mi página web](index.html)    
 ![Imagen gato negro](/images/imagen_gato_negro.avif)  
 
 
