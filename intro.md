@@ -3,7 +3,7 @@
 
 
 * [Visita mi página web](index.html)  
-![Imagen gato negro](https://www.hola.com/horizon/square/7a62013a79a9-por-que-gatos-negros-dan-mala-suerte-t.jpg)  
+![Imagen gato negro](/images/imagen_gato_negro.avif)  
 
 
 
